@@ -1,4 +1,4 @@
-Securis-Languages
+Securis Languages
 =================
 
 Language System for ProjectSecuris.cz
